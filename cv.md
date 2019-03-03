@@ -1,0 +1,28 @@
+﻿### Kruichkov Yevgenii ###
+
+**Contacts**:  
+*e-mail: fenyaforever@gmail.com*  
+*mobile: +380637098006*
+
+**Summary**: 
+Проявляю смекалку, инженерный и творческий подход в решении задач при помощи кода. Понравился в этом плане JavaScript, в особенности решать задачи по продумыванию алгоритмов на сайте codewars. Быстро обучаюсь и усваиваю информацию.  
+На данный момент проживаю на территории Украины в г. Запорожье, планируется переезд в Минск.
+
+**Skills**: 
+- HTML;
+- CSS; 
+- JS;
+- Git.
+
+**Samples**: [Last project sample](https://github.com/OldFennec/samlpe).
+
+**Experience**: [Codewars profile](https://www.codewars.com/users/OldFennec).
+
+**Education**:
+- Специалист по электрическим машинам и аппаратам, профессионал в отрасли электротехники, инженер-конструктор(электротехника) (ZNTU);
+- городские бесплатные курсы по HTML, CSS, JS;
+- HTML и CSS на сайте Codeacademy ([Codecadeny profile](https://www.codecademy.com/users/OldFennec));
+- Начал обучение в RSS School 20 февраля 2019.
+
+**English**: Basic(A2)
+.
