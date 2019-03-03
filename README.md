@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+https://oldfennec.github.io/rsschool-2019Q1-cv/cv
